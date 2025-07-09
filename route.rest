@@ -1,0 +1,16 @@
+GET http://localhost:3000/users
+
+###
+
+GET http://localhost:3000/users/686cdf3f6df842afaaaa2de6
+###
+
+POST http://localhost:3000/users
+Content-Type: application/json
+//686cdf3f6df842afaaaa2de4
+
+{
+    "name": "John Doe jr",
+    "email": "johndooe@johnjr.com",
+    "key": "vdfef$sb*vcxvxv@kj8"
+}
